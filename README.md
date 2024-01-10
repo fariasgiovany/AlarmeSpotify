@@ -11,4 +11,4 @@ Um dashboard no mesmo site.
 Client ID e Secret
 Biblioteca pyspotify neste link https://pyspotify.readthedocs.io/en/latest/
 
-Tudo isso pode ser consiguido de graça.
+Tudo isso pode ser conseguido de graça.
